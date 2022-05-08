@@ -1,0 +1,19 @@
+Git Clone Instructions
+
+1. Click the green "Code" button on github.
+2. Copy the ssh link
+3. Open a terminal in VSCODE (I use 'Git Bash' as my primary language)
+4. Type: "git clone" then paste the ssh Code
+5. Select folder location
+6. Open the "index.html" file
+7. On the bottom right of the entire window of VSCODE, click Go Live (The 'Live Server' extension by Ritwick Dey must be installed)
+8. Explore Site
+
+**Note**
+Links and extra pages were not added
+
+Whole purpose of the site was to get in the habit of never using pixels again to maintain consistency and responsiveness.
+
+An extension called "Live Sass Compiler" also by Ritwick Dey lets me write styling code ins SASS (.scss/sass) and it is automatically
+compiled into regular css. The file named "styles.css.map" is where all the converting magic (that I do not understand) happens.
+(If anything, it reminds me of how a JSON file would look when I make web apps via REACT.JS)
